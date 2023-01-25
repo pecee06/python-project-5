@@ -1,0 +1,10 @@
+CustomerID,Address,PaymentMethod,sales,date
+AE1,"qtr.B/45,near Hero showroom, Khongapani, CG",Cash On Delivery,1785.0,2022-02-13
+AE1,"House no.52, Kapildhara, Bijuri, MP",CVV 1234,900.0,2022-02-13
+AE1,"qtr.B/45, near Hero showroom, Khongapani, CG",UPI 1234,1275.0,2022-02-13
+AE1,"House no. 31, Kapildhara colony, Bijuri, Anuppur, M.P.",Cash On Delivery,1700.0,2022-02-20
+AE2,"House no. 31, Urja Nagar, Bijuri, M.P.",CVV 4682,467.5,2022-02-23
+AE2,"House no. 84, Urja Nagar, Bijuri, M.P.",UPI 2369,1275.0,2022-02-23
+AE2,"House no. 84, Urja Nagar, Bijuri, M.P.",Cash On Delivery,1190.0,2022-02-23
+AE2,"Near S3 cineplex, House no. 84, Manendragarh, C.G.",Cash On Delivery,3570.0,2022-02-23
+AE1,"House no. 23, Kapildhara colony, Bijuri",UPI0101,595.0,2022-04-07
